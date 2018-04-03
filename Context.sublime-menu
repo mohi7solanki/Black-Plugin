@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Reformat with Black.",
+        "command": "black"
+    }
+]
